@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+/*th,td{
+  border-bottom:solid 1px silver;
+}*/
+
+
+.set{
+  width: 100px;
+  text-align: center;
+}
+
+.item{
+  width: 180px;
+  text-align: left;
+}
+
+.price{
+  width: 50px;
+  text-align: center;
+}
+
+.buy{
+  width: 70px;
+}
+
+
+
+.matu {
+  color: blue;
+  text-align: center;
+  height: 40px;
+}
+.matu_item{
+  text-align: left;
+}
+.matu_price{
+  text-align: right;
+}
+.matu_buy{
+  text-align: center;
+}
+
+.take{
+  color: green;
+  text-align: center;
+  height: 40px;
+}
+.take_item{
+  text-align: left;
+}
+.take_price{
+  text-align: right;
+}
+.take_buy{
+  text-align: center;
+}
+
+
+
+.ume{
+  color: red;
+  text-align: center;
+  height: 40px;
+}
+.ume_item{
+  text-align: left;
+}
+.ume_price{
+  text-align: right;
+}
+.ume_buy{
+  text-align: center;
+}
